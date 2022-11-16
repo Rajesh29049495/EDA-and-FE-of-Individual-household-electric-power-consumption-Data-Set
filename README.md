@@ -1,1 +1,1 @@
-# EDA-and-FE-of-Individual-household-electric-power-consumption-Data-Set
+# EDA, FE, Linear Regression, and Support Vector Regressor on Household Power Consumption Dataset
